@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustfaaa Can we send another JWST??
 - 👀 I’m interested in ...Blockchain Technology ,Defi ,Space and Enviromental sustainability
 - 🌱 I’m currently learning ...python 
-- 💞️ I’m looking to collaborate on ...a decentralised project and asset tokenisation platformn .
+- 💞️ I’m looking to collaborate on ...a decentralised project and asset tokenisation platform .
 - 📫 How to reach me ...mustafa@rndx.org
 
 <!---
